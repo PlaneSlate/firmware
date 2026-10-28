@@ -1,0 +1,12 @@
+AircraftShapesSVG by RexKramer1 and contributors.
+Source: https://github.com/RexKramer1/AircraftShapesSVG
+License: GNU GPL version 3 (see LICENSE).
+Original SVG files preserved. PlaneSlate conversion: visible vector paths only; hidden reference artwork omitted, contours normalized and simplified, body filled, colors assigned at runtime. Changes dated 2026-10-14.
+Regenerate using embedded/tools/build_aircraft_shapes.py (svg.path==7.1). Generated geometry retains the source license.
+
+PlaneSlate additions dated 2026-10-21: A319, E190, E290, E295, AT72 and AT76.
+These are simplified radar-scale family constructions, not manufacturer CAD.
+See derive_aircraft_shapes.py and derived-contours.json for reproducible geometry,
+family references, overall dimensions and limitations. AT72/AT76 intentionally
+share the simplified ATR72 exterior; propeller blade count is not represented.
+The additions are provided under the same GPL-3.0 license. Visually reviewed on both native display sizes and approved on 2026-10-21.

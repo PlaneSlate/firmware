@@ -48,6 +48,8 @@ values remain unknown. PlaneSlate is a hobby display, not a navigation tool.
 
 ## Source and licenses
 
+The original PlaneSlate firmware is licensed for private, noncommercial use only. Read the [PlaneSlate Firmware License](https://planeslate.com/firmware-license.txt) before downloading. A copy is included in each firmware ZIP.
+
 This repository hosts PlaneSlate firmware downloads and release documentation.
 The project is developed in the private
 [PlaneSlate/planeslate](https://github.com/PlaneSlate/planeslate) repository.
